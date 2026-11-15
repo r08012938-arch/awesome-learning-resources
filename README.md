@@ -17,6 +17,7 @@ The goal is to help people discover quality resources for learning skills, progr
 🔬 Science & Mathematics
 
 - "Khan Academy" (https://www.khanacademy.org/) — Free lessons across mathematics, science, and other subjects.
+- "carboncarbon.bond" (https://carboncarbon.bond) - Free organic chemistry lessons with 3D molecule models and quick checks.
 
 🌍 Languages
 
